@@ -1,0 +1,8 @@
+<webscript>
+	<shortname>demowebscript</shortname>
+	<description>Webscript Demo</description>
+	<url>/demowebscript?message={message?}</url>
+	<format default="json">argument</format>
+	<authentication>user</authentication>
+	<family>Alfresco Demo</family>
+</webscript>
